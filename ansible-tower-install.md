@@ -70,12 +70,10 @@ localhost                  : ok=179  changed=88   unreachable=0    failed=0    s
 The setup process completed successfully.
 Setup log saved to /var/log/tower/setup-2022-04-12-14:19:59.log.
 
-
 ~~~
 
 ### 4. Access Tower Webbro browser
 
 - Enter Ansible Tower URL: ''https://IPADDRESS''
 ![](./Images/AAP_web.jpg)
-
 
