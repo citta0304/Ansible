@@ -80,9 +80,11 @@ Setup log saved to /var/log/tower/setup-2022-04-12-14:19:59.log.
 ![](./Images/AAP_web.jpg)
 
  3.You will see Tower Subscription, use your Red Hat credentials(username, password)
+
 ![](./Images/ansibletower_subscriptionpage.jpg)
 
  4.Last Tower Demo play(Template-Demo job Template)
+
 ![](./Images/ansibletower_webpage_afterlogin.jpg)
 
 end.
