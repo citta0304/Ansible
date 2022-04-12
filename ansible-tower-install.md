@@ -76,6 +76,7 @@ Setup log saved to /var/log/tower/setup-2022-04-12-14:19:59.log.
 
  1. Ansible Tower URL: ''https://IPADDRESS''
  2. Enter USERNAME, PASSSWORD
+
 ![](./Images/AAP_web.jpg)
 
  3.You will see Tower Subscription, use your Red Hat credentials(username, password)
